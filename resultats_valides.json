@@ -1,0 +1,254 @@
+[
+  {
+    "requete": 1,
+    "colonnes": [
+      "agence",
+      "clients",
+      "depots_usd",
+      "commissions_usd"
+    ],
+    "nombre_lignes": 7,
+    "apercu": [
+      {
+        "agence": "Lemba",
+        "clients": 34,
+        "depots_usd": 337278.79,
+        "commissions_usd": 2858.72
+      },
+      {
+        "agence": "Limete",
+        "clients": 34,
+        "depots_usd": 320293.44,
+        "commissions_usd": 2342.18
+      },
+      {
+        "agence": "Matete",
+        "clients": 33,
+        "depots_usd": 277364.39,
+        "commissions_usd": 2328.62
+      },
+      {
+        "agence": "Ngaliema",
+        "clients": 32,
+        "depots_usd": 242294.23,
+        "commissions_usd": 1971.23
+      },
+      {
+        "agence": "Kintambo",
+        "clients": 28,
+        "depots_usd": 234588.26,
+        "commissions_usd": 1845.31
+      },
+      {
+        "agence": "Gombe",
+        "clients": 33,
+        "depots_usd": 230988.13,
+        "commissions_usd": 2230.76
+      },
+      {
+        "agence": "N’djili",
+        "clients": 30,
+        "depots_usd": 218412.31,
+        "commissions_usd": 1854.1
+      }
+    ]
+  },
+  {
+    "requete": 2,
+    "colonnes": [
+      "agence",
+      "commissions_usd",
+      "charges_usd",
+      "contribution_commissions_usd"
+    ],
+    "nombre_lignes": 7,
+    "apercu": [
+      {
+        "agence": "Lemba",
+        "commissions_usd": 24951.29,
+        "charges_usd": 41335.42,
+        "contribution_commissions_usd": -16384.13
+      },
+      {
+        "agence": "Gombe",
+        "commissions_usd": 18705.76,
+        "charges_usd": 39023.78,
+        "contribution_commissions_usd": -20318.02
+      },
+      {
+        "agence": "Kintambo",
+        "commissions_usd": 16143.41,
+        "charges_usd": 37558.35,
+        "contribution_commissions_usd": -21414.94
+      },
+      {
+        "agence": "Matete",
+        "commissions_usd": 20793.34,
+        "charges_usd": 42314.41,
+        "contribution_commissions_usd": -21521.07
+      },
+      {
+        "agence": "Limete",
+        "commissions_usd": 20707.26,
+        "charges_usd": 44393.94,
+        "contribution_commissions_usd": -23686.68
+      },
+      {
+        "agence": "N’djili",
+        "commissions_usd": 16624.06,
+        "charges_usd": 42232.22,
+        "contribution_commissions_usd": -25608.16
+      },
+      {
+        "agence": "Ngaliema",
+        "commissions_usd": 17333.97,
+        "charges_usd": 45288.68,
+        "contribution_commissions_usd": -27954.71
+      }
+    ]
+  },
+  {
+    "requete": 3,
+    "colonnes": [
+      "mois",
+      "depots_usd",
+      "variation_usd",
+      "croissance_pct"
+    ],
+    "nombre_lignes": 9,
+    "apercu": [
+      {
+        "mois": "2026-01",
+        "depots_usd": 1647473.17,
+        "variation_usd": null,
+        "croissance_pct": null
+      },
+      {
+        "mois": "2026-02",
+        "depots_usd": 1674127.98,
+        "variation_usd": 26654.81,
+        "croissance_pct": 1.62
+      },
+      {
+        "mois": "2026-03",
+        "depots_usd": 1703417.0,
+        "variation_usd": 29289.02,
+        "croissance_pct": 1.75
+      },
+      {
+        "mois": "2026-04",
+        "depots_usd": 1731971.57,
+        "variation_usd": 28554.57,
+        "croissance_pct": 1.68
+      },
+      {
+        "mois": "2026-05",
+        "depots_usd": 1754377.05,
+        "variation_usd": 22405.48,
+        "croissance_pct": 1.29
+      },
+      {
+        "mois": "2026-06",
+        "depots_usd": 1790471.54,
+        "variation_usd": 36094.49,
+        "croissance_pct": 2.06
+      },
+      {
+        "mois": "2026-07",
+        "depots_usd": 1814642.13,
+        "variation_usd": 24170.59,
+        "croissance_pct": 1.35
+      },
+      {
+        "mois": "2026-08",
+        "depots_usd": 1842478.25,
+        "variation_usd": 27836.12,
+        "croissance_pct": 1.53
+      }
+    ]
+  },
+  {
+    "requete": 4,
+    "colonnes": [
+      "segment_activite",
+      "nb_clients",
+      "flux_90j_usd"
+    ],
+    "nombre_lignes": 3,
+    "apercu": [
+      {
+        "segment_activite": "Actif",
+        "nb_clients": 272,
+        "flux_90j_usd": 639424.67
+      },
+      {
+        "segment_activite": "Inactif 90 jours",
+        "nb_clients": 23,
+        "flux_90j_usd": 0.0
+      },
+      {
+        "segment_activite": "Engage valeur elevee",
+        "nb_clients": 5,
+        "flux_90j_usd": 33537.4
+      }
+    ]
+  },
+  {
+    "requete": 5,
+    "colonnes": [
+      "trimestre",
+      "clients_acquis"
+    ],
+    "nombre_lignes": 19,
+    "apercu": [
+      {
+        "trimestre": "2022-T1",
+        "clients_acquis": 15
+      },
+      {
+        "trimestre": "2022-T2",
+        "clients_acquis": 15
+      },
+      {
+        "trimestre": "2022-T3",
+        "clients_acquis": 15
+      },
+      {
+        "trimestre": "2022-T4",
+        "clients_acquis": 17
+      },
+      {
+        "trimestre": "2023-T1",
+        "clients_acquis": 14
+      },
+      {
+        "trimestre": "2023-T2",
+        "clients_acquis": 15
+      },
+      {
+        "trimestre": "2023-T3",
+        "clients_acquis": 23
+      },
+      {
+        "trimestre": "2023-T4",
+        "clients_acquis": 18
+      }
+    ]
+  },
+  {
+    "requete": 6,
+    "colonnes": [
+      "top10_usd",
+      "depots_total_usd",
+      "concentration_pct"
+    ],
+    "nombre_lignes": 1,
+    "apercu": [
+      {
+        "top10_usd": 244398.63,
+        "depots_total_usd": 1861219.55,
+        "concentration_pct": 13.13
+      }
+    ]
+  }
+]
